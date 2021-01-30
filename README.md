@@ -1,4 +1,4 @@
-# VIH-SIDS-Datos-por-pa-s
+# VIH-SIDS-Datos por pais
 Explorar el status del Virus en varios países las últimas dos decadas 
 
 Este conjunto de datasets es de gran ayuda para descubrir respuestas a las siguientes preguntas y más:
