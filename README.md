@@ -1,5 +1,5 @@
 # VIH AIDS Datos por país
-Explorar el status del Virus en varios países las últimas dos decadas 
+Explorar el status del Virus en varios países.
 
 Este conjunto de datasets es de gran ayuda para descubrir respuestas a las siguientes preguntas y más:
 
